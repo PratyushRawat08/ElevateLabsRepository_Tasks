@@ -1,0 +1,19 @@
+Sales by Year
+1.2013 had the highest sales, contributing 29.41% of total sales—just slightly ahead of 2014 at 29.35%.
+2.2010 had the lowest sales, accounting for only 13.88%, indicating significant growth in later years.
+3.Sales steadily increased from 2010 to 2013, showing a positive trend in business performance.
+
+Sales by Sub-Category
+1.Chairs dominate sales with the highest amount (≈ 80 K), followed by Phones and Storage.
+2.Fasteners have the lowest sales, indicating minimal customer demand or inventory.
+3.The top 3 sub-categories (Chairs, Phones, Storage) contribute a large portion of total sales, showing concentrated demand.
+
+Profit by Category
+1.Technology is the most profitable category (~ 150 K), outperforming others by a wide margin.
+2.Furniture lags behind in profit, generating significantly less (~ 20 K).
+3.Office Supplies fall in the middle, with profit (~ 120 K) closer to Technology than Furniture.
+
+Orders by Quarter
+1.Q4 leads in order volume, making up 37% of total orders—likely due to holiday season or year-end purchasing.
+2.Q3 follows with 28%, while Q1 and Q2 trail behind with nearly equal shares (~17% each).
+3.Seasonal trend is clear, with more than 65% of orders placed in the second half of the year.
